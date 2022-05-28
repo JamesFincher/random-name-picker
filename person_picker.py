@@ -1,7 +1,7 @@
 import random
 
 #Get names from user
-name_string = input("Please supply names, each seperated by commas... For example \n Tom, Jason, Carl, Sarah \n \n Names:")
+name_string = input("Please supply names, each separated by commas... For example \n Tom, Jason, Carl, Sarah \n \n Names:")
 
 #Convert names to an easy to access list
 parsed_names = name_string.split(", ")
